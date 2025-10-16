@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/developer-sahu">Developer Sahu</a> 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Passionate+Learner+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Passionate+Learner+🔥" alt="Typing SVG">
 </p>
 
 ---
